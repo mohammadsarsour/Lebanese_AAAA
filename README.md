@@ -1,2 +1,2 @@
-# HOW RUN
-Open Arduino IDE and run
+# How run it?
+open it in Arduino IDE and run it
